@@ -1,0 +1,10 @@
+C:\Users\Administrator\Desktop\Gama_Trabajos\Asignatura_prodesor\bin\Debug\Asignatura_prodesor.exe.config
+C:\Users\Administrator\Desktop\Gama_Trabajos\Asignatura_prodesor\bin\Debug\Asignatura_prodesor.exe
+C:\Users\Administrator\Desktop\Gama_Trabajos\Asignatura_prodesor\bin\Debug\Asignatura_prodesor.pdb
+C:\Users\Administrator\Desktop\Gama_Trabajos\Asignatura_prodesor\obj\Debug\Asignatura_prodesor.csproj.AssemblyReference.cache
+C:\Users\Administrator\Desktop\Gama_Trabajos\Asignatura_prodesor\obj\Debug\Asignatura_prodesor.Form1.resources
+C:\Users\Administrator\Desktop\Gama_Trabajos\Asignatura_prodesor\obj\Debug\Asignatura_prodesor.Properties.Resources.resources
+C:\Users\Administrator\Desktop\Gama_Trabajos\Asignatura_prodesor\obj\Debug\Asignatura_prodesor.csproj.GenerateResource.cache
+C:\Users\Administrator\Desktop\Gama_Trabajos\Asignatura_prodesor\obj\Debug\Asignatura_prodesor.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Desktop\Gama_Trabajos\Asignatura_prodesor\obj\Debug\Asignatura_prodesor.exe
+C:\Users\Administrator\Desktop\Gama_Trabajos\Asignatura_prodesor\obj\Debug\Asignatura_prodesor.pdb

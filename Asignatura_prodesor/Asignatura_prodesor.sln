@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.8.34322.80
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Asignatura_prodesor", "Asignatura_prodesor.csproj", "{73AAE406-DED3-4AA7-A1ED-B98171D455BC}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{73AAE406-DED3-4AA7-A1ED-B98171D455BC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{73AAE406-DED3-4AA7-A1ED-B98171D455BC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{73AAE406-DED3-4AA7-A1ED-B98171D455BC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{73AAE406-DED3-4AA7-A1ED-B98171D455BC}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {ECB4789C-A056-4E54-B419-AB91A177938A}
+	EndGlobalSection
+EndGlobal
