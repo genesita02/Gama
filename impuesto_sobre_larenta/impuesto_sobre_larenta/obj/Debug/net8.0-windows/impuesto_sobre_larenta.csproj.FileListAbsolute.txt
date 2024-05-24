@@ -1,0 +1,16 @@
+C:\Users\dc552\OneDrive\Desktop\Csharp\impuesto_sobre_larenta\impuesto_sobre_larenta\bin\Debug\net8.0-windows\impuesto_sobre_larenta.exe
+C:\Users\dc552\OneDrive\Desktop\Csharp\impuesto_sobre_larenta\impuesto_sobre_larenta\bin\Debug\net8.0-windows\impuesto_sobre_larenta.deps.json
+C:\Users\dc552\OneDrive\Desktop\Csharp\impuesto_sobre_larenta\impuesto_sobre_larenta\bin\Debug\net8.0-windows\impuesto_sobre_larenta.runtimeconfig.json
+C:\Users\dc552\OneDrive\Desktop\Csharp\impuesto_sobre_larenta\impuesto_sobre_larenta\bin\Debug\net8.0-windows\impuesto_sobre_larenta.dll
+C:\Users\dc552\OneDrive\Desktop\Csharp\impuesto_sobre_larenta\impuesto_sobre_larenta\bin\Debug\net8.0-windows\impuesto_sobre_larenta.pdb
+C:\Users\dc552\OneDrive\Desktop\Csharp\impuesto_sobre_larenta\impuesto_sobre_larenta\obj\Debug\net8.0-windows\impuesto_sobre_larenta.Form1.resources
+C:\Users\dc552\OneDrive\Desktop\Csharp\impuesto_sobre_larenta\impuesto_sobre_larenta\obj\Debug\net8.0-windows\impuesto_sobre_larenta.csproj.GenerateResource.cache
+C:\Users\dc552\OneDrive\Desktop\Csharp\impuesto_sobre_larenta\impuesto_sobre_larenta\obj\Debug\net8.0-windows\impuesto_sobre_larenta.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dc552\OneDrive\Desktop\Csharp\impuesto_sobre_larenta\impuesto_sobre_larenta\obj\Debug\net8.0-windows\impuesto_sobre_larenta.AssemblyInfoInputs.cache
+C:\Users\dc552\OneDrive\Desktop\Csharp\impuesto_sobre_larenta\impuesto_sobre_larenta\obj\Debug\net8.0-windows\impuesto_sobre_larenta.AssemblyInfo.cs
+C:\Users\dc552\OneDrive\Desktop\Csharp\impuesto_sobre_larenta\impuesto_sobre_larenta\obj\Debug\net8.0-windows\impuesto_sobre_larenta.csproj.CoreCompileInputs.cache
+C:\Users\dc552\OneDrive\Desktop\Csharp\impuesto_sobre_larenta\impuesto_sobre_larenta\obj\Debug\net8.0-windows\impuesto_sobre_larenta.dll
+C:\Users\dc552\OneDrive\Desktop\Csharp\impuesto_sobre_larenta\impuesto_sobre_larenta\obj\Debug\net8.0-windows\refint\impuesto_sobre_larenta.dll
+C:\Users\dc552\OneDrive\Desktop\Csharp\impuesto_sobre_larenta\impuesto_sobre_larenta\obj\Debug\net8.0-windows\impuesto_sobre_larenta.pdb
+C:\Users\dc552\OneDrive\Desktop\Csharp\impuesto_sobre_larenta\impuesto_sobre_larenta\obj\Debug\net8.0-windows\impuesto_sobre_larenta.genruntimeconfig.cache
+C:\Users\dc552\OneDrive\Desktop\Csharp\impuesto_sobre_larenta\impuesto_sobre_larenta\obj\Debug\net8.0-windows\ref\impuesto_sobre_larenta.dll

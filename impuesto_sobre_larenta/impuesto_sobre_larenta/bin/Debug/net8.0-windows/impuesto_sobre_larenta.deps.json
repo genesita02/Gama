@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "impuesto_sobre_larenta/1.0.0": {
+        "runtime": {
+          "impuesto_sobre_larenta.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "impuesto_sobre_larenta/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
