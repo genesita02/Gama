@@ -1,0 +1,10 @@
+C:\Users\Administrator\Desktop\Gama_Trabajos\Descuento\bin\Debug\Descuento.exe.config
+C:\Users\Administrator\Desktop\Gama_Trabajos\Descuento\bin\Debug\Descuento.exe
+C:\Users\Administrator\Desktop\Gama_Trabajos\Descuento\bin\Debug\Descuento.pdb
+C:\Users\Administrator\Desktop\Gama_Trabajos\Descuento\obj\Debug\Descuento.csproj.AssemblyReference.cache
+C:\Users\Administrator\Desktop\Gama_Trabajos\Descuento\obj\Debug\Descuento.Form1.resources
+C:\Users\Administrator\Desktop\Gama_Trabajos\Descuento\obj\Debug\Descuento.Properties.Resources.resources
+C:\Users\Administrator\Desktop\Gama_Trabajos\Descuento\obj\Debug\Descuento.csproj.GenerateResource.cache
+C:\Users\Administrator\Desktop\Gama_Trabajos\Descuento\obj\Debug\Descuento.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Desktop\Gama_Trabajos\Descuento\obj\Debug\Descuento.exe
+C:\Users\Administrator\Desktop\Gama_Trabajos\Descuento\obj\Debug\Descuento.pdb
