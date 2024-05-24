@@ -1,0 +1,2 @@
+C:\Users\Administrator\Desktop\Gama_Trabajos\ferreteria_la_brocha\Datos\obj\Debug\Datos.csproj.AssemblyReference.cache
+C:\Users\Administrator\Desktop\Gama_Trabajos\ferreteria_la_brocha\Datos\obj\Debug\Datos.csproj.CoreCompileInputs.cache

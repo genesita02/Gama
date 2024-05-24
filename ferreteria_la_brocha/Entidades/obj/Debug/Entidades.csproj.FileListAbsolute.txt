@@ -1,0 +1,6 @@
+C:\Users\Administrator\Desktop\Gama_Trabajos\ferreteria_la_brocha\Entidades\bin\Debug\Entidades.dll
+C:\Users\Administrator\Desktop\Gama_Trabajos\ferreteria_la_brocha\Entidades\bin\Debug\Entidades.pdb
+C:\Users\Administrator\Desktop\Gama_Trabajos\ferreteria_la_brocha\Entidades\obj\Debug\Entidades.csproj.AssemblyReference.cache
+C:\Users\Administrator\Desktop\Gama_Trabajos\ferreteria_la_brocha\Entidades\obj\Debug\Entidades.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Desktop\Gama_Trabajos\ferreteria_la_brocha\Entidades\obj\Debug\Entidades.dll
+C:\Users\Administrator\Desktop\Gama_Trabajos\ferreteria_la_brocha\Entidades\obj\Debug\Entidades.pdb
