@@ -1,0 +1,10 @@
+C:\Users\Administrator\Desktop\Gama_Trabajos\fuente\bin\Debug\fuente.exe.config
+C:\Users\Administrator\Desktop\Gama_Trabajos\fuente\bin\Debug\fuente.exe
+C:\Users\Administrator\Desktop\Gama_Trabajos\fuente\bin\Debug\fuente.pdb
+C:\Users\Administrator\Desktop\Gama_Trabajos\fuente\obj\Debug\fuente.csproj.AssemblyReference.cache
+C:\Users\Administrator\Desktop\Gama_Trabajos\fuente\obj\Debug\fuente.Form1.resources
+C:\Users\Administrator\Desktop\Gama_Trabajos\fuente\obj\Debug\fuente.Properties.Resources.resources
+C:\Users\Administrator\Desktop\Gama_Trabajos\fuente\obj\Debug\fuente.csproj.GenerateResource.cache
+C:\Users\Administrator\Desktop\Gama_Trabajos\fuente\obj\Debug\fuente.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Desktop\Gama_Trabajos\fuente\obj\Debug\fuente.exe
+C:\Users\Administrator\Desktop\Gama_Trabajos\fuente\obj\Debug\fuente.pdb
