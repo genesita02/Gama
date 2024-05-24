@@ -1,0 +1,10 @@
+C:\Users\Administrator\Desktop\Gama_Trabajos\Tamaño_de_fuente\bin\Debug\Tamaño_de_fuente.exe.config
+C:\Users\Administrator\Desktop\Gama_Trabajos\Tamaño_de_fuente\bin\Debug\Tamaño_de_fuente.exe
+C:\Users\Administrator\Desktop\Gama_Trabajos\Tamaño_de_fuente\bin\Debug\Tamaño_de_fuente.pdb
+C:\Users\Administrator\Desktop\Gama_Trabajos\Tamaño_de_fuente\obj\Debug\Tamaño_de_fuente.csproj.AssemblyReference.cache
+C:\Users\Administrator\Desktop\Gama_Trabajos\Tamaño_de_fuente\obj\Debug\Tamaño_de_fuente.Form1.resources
+C:\Users\Administrator\Desktop\Gama_Trabajos\Tamaño_de_fuente\obj\Debug\Tamaño_de_fuente.Properties.Resources.resources
+C:\Users\Administrator\Desktop\Gama_Trabajos\Tamaño_de_fuente\obj\Debug\Tamaño_de_fuente.csproj.GenerateResource.cache
+C:\Users\Administrator\Desktop\Gama_Trabajos\Tamaño_de_fuente\obj\Debug\Tamaño_de_fuente.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Desktop\Gama_Trabajos\Tamaño_de_fuente\obj\Debug\Tamaño_de_fuente.exe
+C:\Users\Administrator\Desktop\Gama_Trabajos\Tamaño_de_fuente\obj\Debug\Tamaño_de_fuente.pdb
