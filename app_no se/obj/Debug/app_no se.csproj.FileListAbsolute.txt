@@ -1,0 +1,10 @@
+C:\Users\Administrator\Desktop\Gama_Trabajos\app_no se\bin\Debug\app_no se.exe.config
+C:\Users\Administrator\Desktop\Gama_Trabajos\app_no se\bin\Debug\app_no se.exe
+C:\Users\Administrator\Desktop\Gama_Trabajos\app_no se\bin\Debug\app_no se.pdb
+C:\Users\Administrator\Desktop\Gama_Trabajos\app_no se\obj\Debug\app_no se.csproj.AssemblyReference.cache
+C:\Users\Administrator\Desktop\Gama_Trabajos\app_no se\obj\Debug\app_no_se.Form1.resources
+C:\Users\Administrator\Desktop\Gama_Trabajos\app_no se\obj\Debug\app_no_se.Properties.Resources.resources
+C:\Users\Administrator\Desktop\Gama_Trabajos\app_no se\obj\Debug\app_no se.csproj.GenerateResource.cache
+C:\Users\Administrator\Desktop\Gama_Trabajos\app_no se\obj\Debug\app_no se.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Desktop\Gama_Trabajos\app_no se\obj\Debug\app_no se.exe
+C:\Users\Administrator\Desktop\Gama_Trabajos\app_no se\obj\Debug\app_no se.pdb
