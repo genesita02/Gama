@@ -1,0 +1,5 @@
+C:\Users\Administrator\Desktop\Gama_Trabajos\PRESTAMO_CUOTA\obj\Debug\PRESTAMO_CUOTA.csproj.AssemblyReference.cache
+C:\Users\Administrator\Desktop\Gama_Trabajos\PRESTAMO_CUOTA\obj\Debug\PRESTAMO_CUOTA.Form1.resources
+C:\Users\Administrator\Desktop\Gama_Trabajos\PRESTAMO_CUOTA\obj\Debug\PRESTAMO_CUOTA.Properties.Resources.resources
+C:\Users\Administrator\Desktop\Gama_Trabajos\PRESTAMO_CUOTA\obj\Debug\PRESTAMO_CUOTA.csproj.GenerateResource.cache
+C:\Users\Administrator\Desktop\Gama_Trabajos\PRESTAMO_CUOTA\obj\Debug\PRESTAMO_CUOTA.csproj.CoreCompileInputs.cache
