@@ -1,0 +1,14 @@
+C:\Users\Administrator\source\repos\numero par o impar\obj\Debug\net8.0\numero par o impar.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Administrator\source\repos\numero par o impar\obj\Debug\net8.0\numero par o impar.AssemblyInfoInputs.cache
+C:\Users\Administrator\source\repos\numero par o impar\obj\Debug\net8.0\numero par o impar.AssemblyInfo.cs
+C:\Users\Administrator\source\repos\numero par o impar\obj\Debug\net8.0\numero par o impar.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\source\repos\numero par o impar\bin\Debug\net8.0\numero par o impar.exe
+C:\Users\Administrator\source\repos\numero par o impar\bin\Debug\net8.0\numero par o impar.deps.json
+C:\Users\Administrator\source\repos\numero par o impar\bin\Debug\net8.0\numero par o impar.runtimeconfig.json
+C:\Users\Administrator\source\repos\numero par o impar\bin\Debug\net8.0\numero par o impar.dll
+C:\Users\Administrator\source\repos\numero par o impar\bin\Debug\net8.0\numero par o impar.pdb
+C:\Users\Administrator\source\repos\numero par o impar\obj\Debug\net8.0\numero par o impar.dll
+C:\Users\Administrator\source\repos\numero par o impar\obj\Debug\net8.0\refint\numero par o impar.dll
+C:\Users\Administrator\source\repos\numero par o impar\obj\Debug\net8.0\numero par o impar.pdb
+C:\Users\Administrator\source\repos\numero par o impar\obj\Debug\net8.0\numero par o impar.genruntimeconfig.cache
+C:\Users\Administrator\source\repos\numero par o impar\obj\Debug\net8.0\ref\numero par o impar.dll
